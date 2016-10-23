@@ -1,0 +1,4 @@
+slider1.MainActivity, slider1;md5b7424bb73728469e409e79930d08238a.MainActivity
+slider1.MainActivity, slider1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b7424bb73728469e409e79930d08238a.MainActivity
+slider1.MainActivity;md5b7424bb73728469e409e79930d08238a.MainActivity
+slider1.MainActivity;md5b7424bb73728469e409e79930d08238a.MainActivity
